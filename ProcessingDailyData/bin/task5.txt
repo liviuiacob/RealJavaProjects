@@ -1,0 +1,10 @@
+Activities duration:
+Leaving	 - duration: 27.63 hours
+Breakfast	 - duration: 2.85 hours
+Sleeping - duration: 130.93 hours
+Snack	 - duration: 0.07 hours
+Grooming	 - duration: 2.32 hours
+Showering	 - duration: 1.42 hours
+Spare_Time/TV - duration: 141.83 hours
+Toileting	 - duration: 2.07 hours
+Lunch - duration: 5.17 hours

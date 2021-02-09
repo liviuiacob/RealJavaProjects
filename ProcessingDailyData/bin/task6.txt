@@ -1,0 +1,2 @@
+Activities that have 90% of durations < 5 minutes:
+Snack	
